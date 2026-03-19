@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"<Unnamed>","l":"database_connection"},{"p":"<Unnamed>","l":"gui"},{"p":"<Unnamed>","l":"manager_gui"},{"p":"<Unnamed>","l":"database_connection.QueryResult"}];updateSearchResults();
